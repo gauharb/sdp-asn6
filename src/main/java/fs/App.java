@@ -2,7 +2,6 @@ package fs;
 
 import java.io.PrintStream;
 
-/** Deterministic in-memory file system demonstration. */
 public final class App {
     private App() { }
 
