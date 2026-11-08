@@ -1,6 +1,5 @@
 package fs;
 
-/** Counts files, directories and maximum depth from the selected root. */
 public final class StatisticsVisitor extends TraversingVisitor {
 
     private int fileCount;
